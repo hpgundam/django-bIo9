@@ -1,0 +1,7 @@
+include LICENSE
+include README.rst
+recursive-include bIo9/static *
+recursive-include bIo9/templates *
+recursive-include bIo9/templatetags *
+recursive-include media *
+recursive-include bIo9/migrations *

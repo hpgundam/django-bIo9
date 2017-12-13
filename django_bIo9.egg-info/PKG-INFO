@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: django-bIo9
+Version: 0.1
+Summary: UNKNOWN
+Home-page: www.example.com
+Author: HuPeng
+Author-email: hpstrike@163.com
+License: BSD License
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: OS Independent
