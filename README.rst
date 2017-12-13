@@ -2,7 +2,7 @@
 bIo9
 =====
 a simple blog site.
-you can register, log in, log out, post a blog, make comments about blog, follow a user, like a blog etc.
+you can register, log in, log out,change your password, reset your password by email, post a blog, make comments about blog, follow a user, like a blog etc.
 
 Quick start
 -----------
